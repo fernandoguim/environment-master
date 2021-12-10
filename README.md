@@ -1,3 +1,3 @@
 # environment-master
 
-Configurando Ambiente de Desenvolvimento Java no Linux
+Configurando Ambiente de Desenvolvimento Java no Linux.
